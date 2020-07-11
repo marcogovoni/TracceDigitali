@@ -1,6 +1,5 @@
 # TracceDigitali
-OSINT Tools Collection & Selection
-DTI: Domain Threat Intelligence utilizzando fonti aperte
+OSINT Tools Collection & Selection | DTI: Domain Threat Intelligence utilizzando fonti aperte
 
 ## Cosa significa OSINT?
 
