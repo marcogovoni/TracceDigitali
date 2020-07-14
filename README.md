@@ -1,5 +1,5 @@
-# TracceDigitali   :mag:
-OSINT Tools Collection & Selection
+# TracceDigitali
+:mag: OSINT Tools Collection & Selection
 
 ## Cosa significa OSINT?
 
