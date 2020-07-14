@@ -17,7 +17,7 @@ Perché permette di avere una interazione maggiore.
 * Vuoi solo informarti sul progetto **TracceDigitali**? Bene, sei nol posto giusto, continua la lettura!
 * Vuoi collaborare portando suggerimenti, idee, correzioni? Ottimo, puoi segnalare ciò che ritieni opportuno tramite una *Pull request* o una *Issue*
 
-:point_right: Non conosci GitHub e vuoi sapere come funziona? Questo link fa per te allora!
+:point_right: Non conosci GitHub e vuoi sapere come funziona? [Questo link fa per te allora!](https://github.com/marcogovoni/come-usare-github)
 
 # Menu
 
