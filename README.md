@@ -13,3 +13,7 @@ Raccogliere informazioni OSINT non è reato, ma attenzione perché *condividerle
 Diventa quindi importante porsi un obiettivo relativo alle attività che si vogliono svolgere perché può capitare che analisi di questo tipo facciano emergere *vulnerabilità* nel target oggetto della ricerca: in questi casi, comunicarle al diretto interessato è la soluzione migliore che si possa adottare.
 
 ## Perché GitHub?
+Perché permette di avere una interazione maggiore.
+* Vuoi solo informarti sul progetto **Tracce Digitali**? Bene, leggi.
+* Vuoi collaborare portando suggerimenti, idee, correzioni? Ottimo, puoi segnalare ciò che ritieni opportuno tramite una Pull request
+
