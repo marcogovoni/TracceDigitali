@@ -1,4 +1,4 @@
-# TracceDigitali :mag:
+# TracceDigitali   :mag:
 OSINT Tools Collection & Selection
 
 ## Cosa significa OSINT?
@@ -21,4 +21,4 @@ Perché permette di avere una interazione maggiore.
 
 # Menu
 
-
+:construction: Questo Repository è in costruzione... seleziona Watch o Star in alto per ricevere gli aggiornamenti!
