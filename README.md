@@ -1,5 +1,5 @@
 # TracceDigitali
-OSINT Tools Collection & Selection | DTI: Domain Threat Intelligence utilizzando fonti aperte
+OSINT Tools Collection & Selection
 
 ## Cosa significa OSINT?
 
@@ -15,8 +15,10 @@ Diventa quindi importante porsi un obiettivo relativo alle attività che si vogl
 ## Perché GitHub?
 Perché permette di avere una interazione maggiore.
 * Vuoi solo informarti sul progetto **TracceDigitali**? Bene, sei nol posto giusto, continua la lettura!
-* Vuoi collaborare portando suggerimenti, idee, correzioni? Ottimo, puoi segnalare ciò che ritieni opportuno tramite una *Pull request*
+* Vuoi collaborare portando suggerimenti, idee, correzioni? Ottimo, puoi segnalare ciò che ritieni opportuno tramite una *Pull request* o una *Issue*
 
-#Menu
+Non conosci GitHub e vuoi sapere come funziona? Questo link fa per te allora!
+
+# Menu
 
 
