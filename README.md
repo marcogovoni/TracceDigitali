@@ -14,6 +14,9 @@ Diventa quindi importante porsi un obiettivo relativo alle attività che si vogl
 
 ## Perché GitHub?
 Perché permette di avere una interazione maggiore.
-* Vuoi solo informarti sul progetto **TracceDigitali**? Bene, leggi.
-* Vuoi collaborare portando suggerimenti, idee, correzioni? Ottimo, puoi segnalare ciò che ritieni opportuno tramite una Pull request
+* Vuoi solo informarti sul progetto **TracceDigitali**? Bene, sei nol posto giusto, continua la lettura!
+* Vuoi collaborare portando suggerimenti, idee, correzioni? Ottimo, puoi segnalare ciò che ritieni opportuno tramite una *Pull request*
+
+#Menu
+
 
