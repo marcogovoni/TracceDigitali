@@ -1,3 +1,6 @@
+![Twitter Follow](https://img.shields.io/twitter/follow/marcogovoni?style=social)
+
+
 # TracceDigitali
 :mag: OSINT Tools Collection & Selection
 
