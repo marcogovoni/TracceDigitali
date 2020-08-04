@@ -62,4 +62,4 @@ Sperimenta. Inizia a leggere blog e articoli, prova le applicazioni che ti sono 
 |OsintOps |Italiano|Blog|[https://osintops.com/](https://osintops.com/)|Buscador, DarkWeb|Aggiornato
 |Tracce Digitali|Italiano|Newsletter| [<img src="https://img.shields.io/badge/iscriviti-clicca qui-blue">](https://mlgn.to/81gl)|OSINT| Il sottoscritto :-)
 |Osint Frameworks|Inglese|Raccolta|[https://osintframework.com/](https://osintframework.com/)|OSINT|La "Bibbia", da usare con cautela!|
-|Awesome OSINT|Inglese|Raccolta|[<img src="https://img.shields.io/github/stars/jivoi/awesome-osint?style=social">]([https://github.com/jivoi/awesome-osint](https://github.com/jivoi/awesome-osint))|OSINT|Completa e aggiornata|
+|Awesome OSINT|Inglese|Raccolta|[<img src="https://img.shields.io/github/stars/jivoi/awesome-osint?style=social">](https://github.com/jivoi/awesome-osint)|OSINT|Completa e aggiornata|
