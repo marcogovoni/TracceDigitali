@@ -1,6 +1,6 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/marcogovoni?style=social)
 
-[<img src="https://img.shields.io/badge/iscriviti alla newsletter-clicca qui-blue">](mlgn.to/81gl)
+[<img src="https://img.shields.io/badge/iscriviti alla newsletter-clicca qui-blue">](https://mlgn.to/81gl)
 # Tracce Digitali :mag: 
 ## :notebook: I miei appunti sul mondo OSINT
 ## Cosa significa OSINT?
@@ -44,7 +44,7 @@ Le risorse che possiamo trovare in rete relative al "mondo" OSINT, sono innumere
   
 :point_right: **Vuoi rimanere aggiornato sulle novità di Tracce Digitali?** Iscriviti alla newsletter cliccando il pulsante:
 
- [<img src="https://img.shields.io/badge/iscriviti alla newsletter-clicca qui-blue">](mlgn.to/81gl)
+ [<img src="https://img.shields.io/badge/iscriviti alla newsletter-clicca qui-blue">](https://mlgn.to/81gl)
 
 # Come iniziare?
 Sperimenta. Inizia a leggere blog e articoli, prova le applicazioni che ti sono più "vicine", ovvero che trovi più semplici da usare. E soprattutto, se hai dubbi o domande, chiedi!
@@ -60,9 +60,6 @@ Sperimenta. Inizia a leggere blog e articoli, prova le applicazioni che ti sono 
 |Titolo|Lingua|Tipo|Link|Argomenti|Note
 |------|----|----|:--:|----|-------|
 |OsintOps |Italiano|Blog|[https://osintops.com/](https://osintops.com/)|Buscador, DarkWeb|Aggiornato
-|Tracce Digitali|Italiano|Newsletter| [<img src="https://img.shields.io/badge/iscriviti-clicca qui-blue">](mlgn.to/81gl)|OSINT| Il sottoscritto :-)
-|Osint Frameworks|Inglese|Raccolta|[https://osintframework.com/](https://osintframework.com/)|OSINT|La "Bibbia", da usare con cautela!
-|
+|Tracce Digitali|Italiano|Newsletter| [<img src="https://img.shields.io/badge/iscriviti-clicca qui-blue">](https://mlgn.to/81gl)|OSINT| Il sottoscritto :-)
+|Osint Frameworks|Inglese|Raccolta|[https://osintframework.com/](https://osintframework.com/)|OSINT|La "Bibbia", da usare con cautela!|
 |Awesome OSINT|Inglese|Raccolta|[<img src="https://img.shields.io/github/stars/jivoi/awesome-osint?style=social">]([https://github.com/jivoi/awesome-osint](https://github.com/jivoi/awesome-osint))|OSINT|Completa e aggiornata|
-
-
