@@ -1,5 +1,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/marcogovoni?style=social)
 
+La prima cosa da fare per rimanere in contatto:
+
 [<img src="https://img.shields.io/badge/iscriviti alla newsletter-clicca qui-blue">](https://mlgn.to/81gl)
 # Tracce Digitali :mag: 
 ## :notebook: I miei appunti sul mondo OSINT
