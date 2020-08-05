@@ -55,16 +55,17 @@ Sperimenta. Inizia a leggere blog e articoli, prova le applicazioni che ti sono 
 > :dog: ritengo possano essere più semplici e comprensibili, ovvero
 > quelli con cui iniziare a studiare questo affascinante argomento**.
 
-# [Menu](#-menu)
+# [Menu](#menu)
 
- - [Risorse](#-risorse): blog, collezioni, account interessanti
+ - [Risorse](#risorse): blog, collezioni, account interessanti
  - Strumenti Web
  - Strumenti per Linux
+ - Domain Threat Intelligence: partiamo da un dominio...
 
 ## Risorse: blog, collezioni, account da seguire
 
 |Titolo|Lingua|Tipo|Link|Argomenti|Note
-|------|:-:|--------|:--:|----|----------|
+|------|----|-----|:--:|----|-------|
 |OsintOps |:it:|:dog: Blog|[https://osintops.com/](https://osintops.com/)|Buscador, DarkWeb|Aggiornato
 |Tracce Digitali|:it:|:dog: Newsletter| [<img src="https://img.shields.io/badge/iscriviti-clicca qui-blue">](https://mlgn.to/81gl)|OSINT| Il sottoscritto :-)
 |Osint Frameworks|:uk:|Raccolta|[https://osintframework.com/](https://osintframework.com/)|OSINT|La "Bibbia", da usare con cautela!|
@@ -76,3 +77,24 @@ Sperimenta. Inizia a leggere blog e articoli, prova le applicazioni che ti sono 
 |Sector035|:uk:|:dog: Blog|[https://medium.com/@sector035](https://medium.com/@sector035)|OSINT|Un must da leggere ogni settimana|
 |Quiz Time|:uk:|Twitter|[<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/quiztime?style=social">](https://twitter.com/quiztime)|OSINT|Quiz OSINT settimanali!|
 |Nico Dekens|:uk:|Twitter|[<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/dutch_osintguy?style=social">](https://twitter.com/dutch_osintguy)|OSINT, CyberSec|VP di Osintcuro.us|
+
+ [:arrow_double_up: Menu](#menu)
+ 
+Hai dei suggerimenti? Idee? Modifiche?
+Segnala ciò che ritieni opportuno tramite una *Pull request* o una *Issue* o "alla vecchia maniera" [via email!](mailto:info@marcogovoni.it)
+ 
+
+## Strumenti Web
+  
+In arrivo! Iscriviti alla newsletter per ricevere gli aggiornamenti
+[<img src="https://img.shields.io/badge/iscriviti-clicca qui-blue">](https://mlgn.to/81gl)
+
+## Strumenti per Linux
+In arrivo! Iscriviti alla newsletter per ricevere gli aggiornamenti
+[<img src="https://img.shields.io/badge/iscriviti-clicca qui-blue">](https://mlgn.to/81gl)
+
+## Domain Threat Intelligence
+In arrivo! Iscriviti alla newsletter per ricevere gli aggiornamenti
+[<img src="https://img.shields.io/badge/iscriviti-clicca qui-blue">](https://mlgn.to/81gl)
+
+ [:arrow_double_up: Menu](#menu)
