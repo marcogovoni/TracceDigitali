@@ -64,7 +64,7 @@ Sperimenta. Inizia a leggere blog e articoli, prova le applicazioni che ti sono 
 ## Risorse: blog, collezioni, account da seguire
 
 |Titolo|Lingua|Tipo|Link|Argomenti|Note
-|------|----|-----|:--:|----|----------|
+|------|:-:|--------|:--:|----|----------|
 |OsintOps |:it:|:dog: Blog|[https://osintops.com/](https://osintops.com/)|Buscador, DarkWeb|Aggiornato
 |Tracce Digitali|:it:|:dog: Newsletter| [<img src="https://img.shields.io/badge/iscriviti-clicca qui-blue">](https://mlgn.to/81gl)|OSINT| Il sottoscritto :-)
 |Osint Frameworks|:uk:|Raccolta|[https://osintframework.com/](https://osintframework.com/)|OSINT|La "Bibbia", da usare con cautela!|
