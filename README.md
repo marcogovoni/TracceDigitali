@@ -64,11 +64,10 @@ Sperimenta. Inizia a leggere blog e articoli, prova le applicazioni che ti sono 
 ## Risorse: blog, collezioni, account da seguire
 
 |Titolo|Lingua|Tipo|Link|Argomenti|Note
-|------|----|-----|:--:|----|-------|
+|------|----|-----|:--:|----|----------|
 |OsintOps |:it:|:dog: Blog|[https://osintops.com/](https://osintops.com/)|Buscador, DarkWeb|Aggiornato
 |Tracce Digitali|:it:|:dog: Newsletter| [<img src="https://img.shields.io/badge/iscriviti-clicca qui-blue">](https://mlgn.to/81gl)|OSINT| Il sottoscritto :-)
-|Osint Frameworks|:uk:|Raccolta|[https://osintframework.com/](https://osintframework.com/)|OSINT|La "Bibbia", da usare con cautela!
-|
+|Osint Frameworks|:uk:|Raccolta|[https://osintframework.com/](https://osintframework.com/)|OSINT|La "Bibbia", da usare con cautela!|
 |Awesome OSINT|:uk:|Raccolta|[<img src="https://img.shields.io/github/stars/jivoi/awesome-osint?style=social">]([https://github.com/jivoi/awesome-osint](https://github.com/jivoi/awesome-osint))|OSINT|Completa e aggiornata|
 |Indagini Online|:it:|:dog: Blog|[https://indaginionline.com/](https://indaginionline.com/)|OSINT / Informatica Forense|Scoperto grazie all'amico Leonida Reitano|
 |YOGA (Your Osint Graphical Analyzer)|:uk:|:dog: Mappa|[https://yoga.osint.ninja/](https://yoga.osint.ninja/)|OSINT|Hai un dato da cui partire? Cerca le correlazioni|
