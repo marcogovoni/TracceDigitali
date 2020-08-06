@@ -87,7 +87,7 @@ Segnala ciò che ritieni opportuno tramite una *Pull request* o una *Issue* o "a
 ## Strumenti Web
   
 |Titolo|Link|A cosa serve|Note|
-|-----|-----|-----|-----|-----|
+|-----|-----|-----|-----|
 |Intelligence X|[https://intelx.io/](https://intelx.io/)|Motore di ricerca|Molte informazioni anche nella versione free|
 |ImmuniWeb|[https://www.immuniweb.com/radar/](https://www.immuniweb.com/radar/)|DTI & Scan|Community version free|
 |Google Hacking|[https://pentest-tools.com/information-gathering/google-hacking#](https://pentest-tools.com/information-gathering/google-hacking#)|Dorks|Analisi Dorks pre-impostate|
