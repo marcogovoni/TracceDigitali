@@ -40,7 +40,7 @@ Perché permette di avere una interazione maggiore.
 |[Il mio blog](https://marcogovoni.it)|[Il Podcast](https://www.spreaker.com/show/cronache-digitali-cybersecurity)|[Gruppo Telegram](https://t.me/cybersecurity_ita)
 |--|--|--|
 
-## Come è organizzato questo spazio?
+## Come è organizzata questa pagina?
 Le risorse che possiamo trovare in rete relative al "mondo" OSINT, sono innumerevoli: ho cercato (e sto continuando a farlo, [anche con il tuo aiuto](mailto:info@marcogovoni.it)) di selezionare gli strumenti che ritengo più interessanti e utili.
 
   
