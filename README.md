@@ -94,6 +94,7 @@ Segnala ciò che ritieni opportuno tramite una *Pull request* o una *Issue* o "a
 |Have I Been Pwned|[https://haveibeenpwned.com/](https://haveibeenpwned.com/)|Ricerca email corrotte|Free|
 |Email Header Analyzer|[https://mha.azurewebsites.net/](https://mha.azurewebsites.net/)|Analisi email|Free|
 |Wayback Machine|[http://web.archive.org/](http://web.archive.org/)|Archivio pagine web|Free|
+|Terrapattern|http://www.terrapattern.com/|Mappe Satellitari|Beta project|
 
 
 [<img src="https://img.shields.io/badge/iscriviti-clicca qui-blue">](https://mlgn.to/81gl)
