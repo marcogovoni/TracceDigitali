@@ -58,8 +58,8 @@ Sperimenta. Inizia a leggere blog e articoli, prova le applicazioni che ti sono 
 # [Menu](#menu)
 
  - [Risorse](#risorse): blog, collezioni, account interessanti
- - Strumenti Web
- - Strumenti per Linux
+ - [Raccolta informazioni: Strumenti Web](#strumenti-web)
+ - [Raccolta informazioni: Strumenti per Linux](#strumenti-linux)
  - Domain Threat Intelligence: partiamo da un dominio...
 
 ## Risorse: blog, collezioni, account da seguire
@@ -84,7 +84,7 @@ Hai dei suggerimenti? Idee? Modifiche?
 Segnala ciò che ritieni opportuno tramite una *Pull request* o una *Issue* o "alla vecchia maniera" [via email!](mailto:info@marcogovoni.it)
  
 
-## Strumenti Web
+## [Raccolta informazioni: Strumenti Web](#strumenti-web)
   
 |Titolo|Link|A cosa serve|Note|
 |-----|-----|-----|-----|
@@ -95,6 +95,8 @@ Segnala ciò che ritieni opportuno tramite una *Pull request* o una *Issue* o "a
 |Email Header Analyzer|[https://mha.azurewebsites.net/](https://mha.azurewebsites.net/)|Analisi email|Free|
 |Wayback Machine|[http://web.archive.org/](http://web.archive.org/)|Archivio pagine web|Free|
 |Terrapattern|http://www.terrapattern.com/|Mappe Satellitari|Beta project|
+|Shodan|https://www.shodan.io/|Motore di rierca IOT|Il "Google" degli oggetti internet|
+
 
 
 [<img src="https://img.shields.io/badge/iscriviti-clicca qui-blue">](https://mlgn.to/81gl)
