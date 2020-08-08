@@ -57,8 +57,8 @@ Sperimenta. Inizia a leggere blog e articoli, prova le applicazioni che ti sono 
 
 # [Menu](#menu)
 
- - [Risorse](#risorse): blog, collezioni, account interessanti
- - Raccolta informazioni: Strumenti Web
+ - Risorse: blog, collezioni, account interessanti
+ - [Raccolta informazioni: Strumenti Web](#raccolta-informazioni-strumenti-web)
  - Raccolta informazioni: Strumenti per Linux
  - Domain Threat Intelligence: partiamo da un dominio...
 
