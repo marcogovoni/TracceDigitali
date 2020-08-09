@@ -74,7 +74,7 @@ Sperimenta. Inizia a leggere blog e articoli, prova le applicazioni che ti sono 
 |YOGA (Your Osint Graphical Analyzer)|:uk:|:dog: Mappa|[https://yoga.osint.ninja/](https://yoga.osint.ninja/)|OSINT|Hai un dato da cui partire? Cerca le correlazioni|
 |Bellingcat|:uk:|Blog|[https://www.bellingcat.com/](https://www.bellingcat.com/)|Giornalismo|Investigazioni|
 |Technisette|:uk:|Raccolta|[https://www.technisette.com/p/home](https://www.technisette.com/p/home)|OSINT Tools|Completa ed aggiornata|
-|Sector035|:uk:|:dog: Blog|[https://medium.com/@sector035](https://medium.com/@sector035)|OSINT|Un must da leggere ogni settimana|
+|Sector035|:uk:|:dog: Blog|https://sector035.nl/|OSINT|Un must da leggere ogni settimana|
 |Quiz Time|:uk:|Twitter|[<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/quiztime?style=social">](https://twitter.com/quiztime)|OSINT|Quiz OSINT settimanali!|
 |Nico Dekens|:uk:|Twitter|[<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/dutch_osintguy?style=social">](https://twitter.com/dutch_osintguy)|OSINT, CyberSec|VP di Osintcuro.us|
 
