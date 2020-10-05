@@ -116,7 +116,8 @@ E' possibile associare alla fase di DTI anche una analisi delle vulnerabilità d
 |---------|------|---------|
 |Shodan|IP Pubblico|Analisi rete dall'esterno|
 |SpiderFoot|IP Pubblico e Dominio|Raccolta informazioni|
-|NMAP|IP Pubblico|Raccolta informazion|
+|NMAP|IP Pubblico|Raccolta informazioni|
+|Sublist3r|Dominio|Raccolta sottodomini|
 |Google Dorks|Dominio|Informazioni esposte|
 |Intelligence X|Dominio|Compromissione email|
 |Emotet search|Dominio|Compromissione email|
