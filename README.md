@@ -105,8 +105,23 @@ Segnala ciò che ritieni opportuno tramite una *Pull request* o una *Issue* o "a
 In arrivo! Iscriviti alla newsletter per ricevere gli aggiornamenti
 [<img src="https://img.shields.io/badge/iscriviti-clicca qui-blue">](https://mlgn.to/81gl)
 
-## Domain Threat Intelligence
-In arrivo! Iscriviti alla newsletter per ricevere gli aggiornamenti
+## Domain Threat Intelligence (v.0.2)
+L'attività DTI prevede una analisi di informazioni pubbliche (OSINT) e semipubblice (CLOSINT) volte a trovare tracce rilevanti che possa evidenziare vulnerabilità che a loro volta possano essere utilizzate per un attacco informatico. Queste informazioni vengono spesso utilizzate nella prima fase di un attacco, quella della **raccolta informazioni** (Information Gathering)
+
+E' possibile associare alla fase di DTI anche una analisi delle vulnerabilità dei siti web e uno scan esterno della rete, al fine di produrre un report che fornisca informazioni utili per una prima analisi. Queste attività devono essere esplicitamente autorizzate dall'utente.
+
+**Strumenti utilizzati**
+
+|Strumento|Target|Obiettivo|
+|---------|------|---------|
+|Shodan|IP Pubblico|Analisi rete dall'esterno|
+|SpiderFoot|IP Pubblico e Dominio|Raccolta informazioni|
+|NMAP|IP Pubblico|Raccolta informazion|
+|Google Dorks|Dominio|Informazioni esposte|
+|Intelligence X|Dominio|Compromissione email|
+|Emotet search|Dominio|Compromissione email|
+
+
 [<img src="https://img.shields.io/badge/iscriviti-clicca qui-blue">](https://mlgn.to/81gl)
 
  [:arrow_double_up: Menu](#menu)
