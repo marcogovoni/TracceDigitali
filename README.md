@@ -4,7 +4,7 @@ La prima cosa da fare per rimanere in contatto:
 
 [<img src="https://img.shields.io/badge/iscriviti alla newsletter-clicca qui-blue">](https://mlgn.to/81gl)
 # Tracce Digitali :mag: 
-## :notebook: I miei appunti sul mondo OSINT
+## :notebook: I miei appunti sul mondo OSINT | Per individui ed aziende
 ## Cosa significa OSINT?
 Open Source INTelligence: OSINT è una modalità di lavoro con la quale possiamo raccogliere informazioni su una persona, una azienda, un sito internet, utilizzando esclusivamente fonti libere ed accessibili, come ad esempio: internet, siti web, social network, blog, giornali, registri pubblici (anagrafe, catasto etc).
 
@@ -28,6 +28,11 @@ Ho deciso così di condividere la mia esperienza, in base sia agli strumenti uti
 Diventa quindi importante porsi un obiettivo relativo alle attività che si vogliono svolgere perché può capitare che analisi di questo tipo facciano emergere *vulnerabilità* nel target oggetto della ricerca: in questi casi, comunicarle al diretto interessato è la soluzione migliore che si possa adottare.
 
 Qui potrai quindi trovare strumenti, link, risorse, esempi, che ti possono accompagnare nella scoperta del mondo OSINT, potendo così capire quali sono le *Tracce Digitali* che lasciamo.
+
+## Persone ed Aziende: la formazione è fondamentale
+L'errore umano è ciò che i criminali informatici cercano di far compiere alle persone. E' quindi prima di tutto importante che la popolazione aziendale abbia la giusta consapevolezza sui rischi ma soprattutto sui comportamenti da tenere.
+
+> Per questo motivo svolgo programmi di formazione nelle aziende. Programmi personalizzati in funzione delle esigenze (solo teorici o mixati a test operativi ed analisi delle vulnerabilità). [Contattami se sei interessato.](https://marcogovoni.it/consulenze/) 
 
 ## Perché GitHub?
 Perché permette di avere una interazione maggiore.
