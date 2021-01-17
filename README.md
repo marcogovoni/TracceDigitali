@@ -29,7 +29,7 @@ Diventa quindi importante porsi un obiettivo relativo alle attività che si vogl
 
 Qui potrai quindi trovare strumenti, link, risorse, esempi, che ti possono accompagnare nella scoperta del mondo OSINT, potendo così capire quali sono le *Tracce Digitali* che lasciamo.
 
-## Persone ed Aziende: la formazione è fondamentale
+## :bangbang: Persone ed Aziende: la formazione è fondamentale
 L'errore umano è ciò che i criminali informatici cercano di far compiere alle persone. E' quindi prima di tutto importante che la popolazione aziendale abbia la giusta consapevolezza sui rischi ma soprattutto sui comportamenti da tenere.
 
 > Per questo motivo svolgo programmi di formazione nelle aziende. Programmi personalizzati in funzione delle esigenze (solo teorici o mixati a test operativi ed analisi delle vulnerabilità). [Contattami se sei interessato.](https://marcogovoni.it/consulenze/) 
