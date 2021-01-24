@@ -64,7 +64,7 @@ Sperimenta. Inizia a leggere blog e articoli, prova le applicazioni che ti sono 
 
  - [Risorse: blog, collezioni, account interessanti](#risorse-blog-collezioni-account-da-seguire)
  - [Raccolta informazioni: Strumenti Web](#raccolta-informazioni-strumenti-web)
- - [Quali impronte lasciamo?](#quali-impronte-lasciamo-visitando-un-link?) 
+ - [Quali impronte lasciamo?](#impronte) 
  - Raccolta informazioni: Strumenti per Linux
  - Domain Threat Intelligence: partiamo da un dominio...
 
@@ -103,7 +103,7 @@ Segnala ciò che ritieni opportuno tramite una *Pull request* o una *Issue* o "a
 |Terrapattern|http://www.terrapattern.com/|Mappe Satellitari|Beta project|
 |Shodan|https://www.shodan.io/|Motore di rierca IOT|Il "Google" degli oggetti internet|
 
-# [Quali impronte lasciamo visitando un link?](#impronte)
+## [Quali impronte lasciamo visitando un link?](#impronte)
 Per sapere quali dati pubblici lasciamo, semplicemente cliccando un link, puoi utilizzare i seguenti servizi. Ricorda che tutte queste informazioni possono essere utilizzate nella prima fase di un attacco, chiamata "Information Gathering" che ha appunto l'obiettivo di raccogliere dati sui bersagli e catalogarli.
 
 |Titolo|Link|
