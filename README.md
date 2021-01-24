@@ -111,8 +111,6 @@ Per sapere quali dati pubblici lasciamo, semplicemente cliccando un link, puoi u
 |Electronic Frontier Fundation|[https://panopticlick.eff.org](https://panopticlick.eff.org)
 |Browser Leaks|[https://browserleaks.com](https://browserleaks.com)|DTI & Scan|Community version free|
 
-[<img src="https://img.shields.io/badge/iscriviti-clicca qui-blue">](https://mlgn.to/81gl)
-
 ## Strumenti per Linux
 In arrivo! Iscriviti alla newsletter per ricevere gli aggiornamenti
 [<img src="https://img.shields.io/badge/iscriviti-clicca qui-blue">](https://mlgn.to/81gl)
