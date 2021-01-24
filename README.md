@@ -64,9 +64,11 @@ Sperimenta. Inizia a leggere blog e articoli, prova le applicazioni che ti sono 
 
  - [Risorse: blog, collezioni, account interessanti](#risorse-blog-collezioni-account-da-seguire)
  - [Raccolta informazioni: Strumenti Web](#raccolta-informazioni-strumenti-web)
- - [Quali impronte lasciamo?](#impronte) 
+ - [Quali impronte lasciamo?](#quali-impronte-lasciamo-visitando-un-link) 
  - Raccolta informazioni: Strumenti per Linux
  - Domain Threat Intelligence: partiamo da un dominio...
+ - Le fasi di un attacco
+ - Anonimato in rete
 
 ## [Risorse: blog, collezioni, account da seguire](#risorse)
 
