@@ -69,7 +69,7 @@ Sperimenta. Inizia a leggere blog e articoli, prova le applicazioni che ti sono 
  - Domain Threat Intelligence: partiamo da un dominio...
  - Le fasi di un attacco
  - Anonimato in rete
- - :fire: New: [Malware Research Section](#malware-reseach-section)
+ - :fire: New: [Malware Research Section](#malware-reseach-section-malware)
 
 ## [Risorse: blog, collezioni, account da seguire](#risorse)
 
