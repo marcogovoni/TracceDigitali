@@ -69,7 +69,7 @@ Sperimenta. Inizia a leggere blog e articoli, prova le applicazioni che ti sono 
  - Domain Threat Intelligence: partiamo da un dominio...
  - Le fasi di un attacco
  - Anonimato in rete
- - :fire: New: [Malware Research Section](#malware-research-section-malware)
+ - :fire: New: [Malware Research Section](#malware-research-section)
 
 ## [Risorse: blog, collezioni, account da seguire](#risorse)
 
@@ -135,7 +135,7 @@ E' possibile associare alla fase di DTI anche una analisi delle vulnerabilità d
 |Intelligence X|Dominio|Compromissione email|
 |Emotet search|Dominio|Compromissione email|
 
-## Malware Research Section (#malware)
+## Malware Research Section
 
 In questa sezione vengono riportate risorse le per la ricerca di fonti che possano identificare una attività svolta da un malware. Tutti i risultati vanno verificati.
 
