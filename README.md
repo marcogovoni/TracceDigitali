@@ -142,7 +142,8 @@ In questa sezione vengono riportate risorse le per la ricerca di fonti che possa
 |Tipo|Famiglia|Leak Site|Link|
 |------|-------|--------|------|
 |Ransomware|REvil|Happy Blog|dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.]onion.ly|
-
+|Ransomware|DarkSide|DarkSide Blog|darksidedxcftmqa.]onion|
+|Ransomware|Avaddon|Avaddon Info|avaddongun7rngel.]onion| 
 
 [<img src="https://img.shields.io/badge/iscriviti-clicca qui-blue">](https://mlgn.to/81gl)
 
