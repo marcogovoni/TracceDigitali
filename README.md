@@ -1,8 +1,8 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/marcogovoni?style=social)
 
-La prima cosa da fare per rimanere in contatto:
+La prima cosa da fare per rimanere in contatto, iscriviti al mio blog Cronache Digitali:
 
-[<img src="https://img.shields.io/badge/iscriviti alla newsletter-clicca qui-blue">](http://blog.marcogovoni.it)
+[<img src="https://img.shields.io/badge/iscriviti alla newsletter-clicca qui-blue">](https://marcogovoni.it/signup/)
 # Tracce Digitali :mag: 
 ## :notebook: I miei appunti sul mondo OSINT | Per individui ed aziende
 ## Cosa significa OSINT?
@@ -42,7 +42,7 @@ Perché permette di avere una interazione maggiore.
 :point_right: Non conosci GitHub e vuoi sapere come funziona? [Questo link fa per te allora!](https://github.com/marcogovoni/come-usare-github)
 
 ## Risorse correlate
-|[Il mio blog](https://marcogovoni.it)|[Il Podcast](https://www.spreaker.com/show/cronache-digitali-cybersecurity)|[Gruppo Telegram](https://t.me/cybersecurity_ita)
+|[Il mio blog](https://marcogovoni.it)|[Il Podcast](https://www.spreaker.com/show/cronache-digitali-cybersecurity)|[Il Canale Telegram](https://t.me/cronachedigitali)
 |--|--|--|
 
 ## Come è organizzata questa pagina?
@@ -76,7 +76,7 @@ Sperimenta. Inizia a leggere blog e articoli, prova le applicazioni che ti sono 
 |Titolo|Lingua|Tipo|Link|Argomenti|Note
 |------|----|-----|:--:|----|-------|
 |OsintOps |:it:|:dog: Blog|[https://osintops.com/](https://osintops.com/)|Buscador, DarkWeb|Aggiornato
-|Tracce Digitali|:it:|:dog: Newsletter| [<img src="https://img.shields.io/badge/iscriviti-clicca qui-blue">](http://blog.marcogovoni.it)|OSINT| Il sottoscritto :-)
+|Tracce Digitali|:it:|:dog: Newsletter| [<img src="https://img.shields.io/badge/iscriviti-clicca qui-blue">](https://marcogovoni.it/signup/)|OSINT| Il sottoscritto :-)
 |Osint Frameworks|:uk:|Raccolta|[https://osintframework.com/](https://osintframework.com/)|OSINT|La "Bibbia", da usare con cautela!|
 |Awesome OSINT|:uk:|Raccolta|[<img src="https://img.shields.io/github/stars/jivoi/awesome-osint?style=social">]([https://github.com/jivoi/awesome-osint](https://github.com/jivoi/awesome-osint))|OSINT|Completa e aggiornata|
 |Indagini Online|:it:|:dog: Blog|[https://indaginionline.com/](https://indaginionline.com/)|OSINT / Informatica Forense|Scoperto grazie all'amico Leonida Reitano|
@@ -116,7 +116,7 @@ Per sapere quali dati pubblici lasciamo, semplicemente cliccando un link, puoi u
 
 ## Strumenti per Linux
 In arrivo! Iscriviti alla newsletter per ricevere gli aggiornamenti
-[<img src="https://img.shields.io/badge/iscriviti-clicca qui-blue">](http://blog.marcogovoni.it)
+[<img src="https://img.shields.io/badge/iscriviti-clicca qui-blue">](https://marcogovoni.it/signup/)
 
 ## Domain Threat Intelligence (v.0.2)
 L'attività DTI prevede una analisi di informazioni pubbliche (OSINT) e semipubblice (CLOSINT) volte a trovare tracce rilevanti che possa evidenziare vulnerabilità che a loro volta possano essere utilizzate per un attacco informatico. Queste informazioni vengono spesso utilizzate nella prima fase di un attacco, quella della **raccolta informazioni** (Information Gathering)
@@ -145,6 +145,6 @@ In questa sezione vengono riportate risorse le per la ricerca di fonti che possa
 |Ransomware|DarkSide|DarkSide Blog|darksidedxcftmqa.]onion|
 |Ransomware|Avaddon|Avaddon Info|avaddongun7rngel.]onion| 
 
-[<img src="https://img.shields.io/badge/iscriviti-clicca qui-blue">](http://blog.marcogovoni.it)
+[<img src="https://img.shields.io/badge/iscriviti-clicca qui-blue">](https://marcogovoni.it/signup/)
 
  [:arrow_double_up: Menu](#menu)
