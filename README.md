@@ -46,7 +46,9 @@ Perché permette di avere una interazione maggiore.
 |--|--|--|
 
 ## Come è organizzata questa pagina?
-Le risorse che possiamo trovare in rete relative al "mondo" OSINT, sono innumerevoli: ho cercato (e sto continuando a farlo, [anche con il tuo aiuto](mailto:info@marcogovoni.it)) di selezionare gli strumenti che ritengo più interessanti e utili.
+Sotto la sezione [Wiki](https://github.com/marcogovoni/TracceDigitali/wiki) trovi le risorse che ho selezionato e che ritengo più utili per un primo approccio al mondo OSINT.
+
+## Cosa aspetti? Inizia il tuo viaggio [vai alle Wiki (clicca qui)](https://github.com/marcogovoni/TracceDigitali/wiki)
 
   
 :point_right: **Vuoi rimanere aggiornato sulle novità di Tracce Digitali?** Iscriviti alla newsletter cliccando il pulsante:
