@@ -48,15 +48,9 @@ Perché permette di avere una interazione maggiore.
 ## Come è organizzata questa pagina?
 Sotto la sezione [Wiki](https://github.com/marcogovoni/TracceDigitali/wiki) trovi le risorse che ho selezionato e che ritengo più utili per un primo approccio al mondo OSINT.
 
-## Cosa aspetti? Inizia il tuo viaggio [vai alle Wiki (clicca qui)](https://github.com/marcogovoni/TracceDigitali/wiki)
+## :point_right: Cosa aspetti? Inizia il tuo viaggio [vai alle Wiki (clicca qui)](https://github.com/marcogovoni/TracceDigitali/wiki)
 
-  
-:point_right: **Vuoi rimanere aggiornato sulle novità di Tracce Digitali?** Iscriviti alla newsletter cliccando il pulsante:
 
- [<img src="https://img.shields.io/badge/iscriviti alla newsletter-clicca qui-blue">](http://blog.marcogovoni.it)
-
-# Come iniziare?
-Sperimenta. Inizia a leggere blog e articoli, prova le applicazioni che ti sono più "vicine", ovvero che trovi più semplici da usare. E soprattutto, se hai dubbi o domande, chiedi!
 
 > Tra le risorse e gli strumenti che ho selezionato, **quelli con l'icona
 > :dog: ritengo possano essere più semplici e comprensibili, ovvero
