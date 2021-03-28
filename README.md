@@ -18,7 +18,7 @@ Con *Closint* ci si riferisce di solito alla ricerca tramite fonti non accessibi
 
 Saper recuperare informazioni utilizzando un approccio OSINT, è diventato oggi fondamentale, *considerato quanto sia intensivo l'utilizzo da parte di tutti (persone ed aziende) di internet.* 
 
-**:point_right:Personalmente, utilizzo strumenti OSINT per le mie ricerche nel mondo del cybercrime, al fine di scoprire azioni di attacco svolte dai cynercriminali, capirne le tattiche e strategie, avvertire ed aiutare le aziende vittime.*
+**:point_right:Personalmente, utilizzo strumenti OSINT per le mie ricerche nel mondo del cybercrime, al fine di scoprire azioni di attacco svolte dai cybercriminali, capirne le tattiche e strategie, avvertire ed aiutare le aziende vittime.**
 
 L'utilizzo di tecniche OSINT inotlre, permette di conoscere meglio la persona o l'azienda con la quale abbiamo a che fare. E' possibile farsi un quadro generale del proprio interlocutore. Ricordiamoci però una regola che ho imparato in questo "viaggio": *le informazioni che raccogliamo vanno sempre verificate: non prendiamole per "oro colato" perché potremmo cadere in un errore banale ma dalle conseguenze imprevedibili.* 
 
