@@ -18,7 +18,9 @@ Con *Closint* ci si riferisce di solito alla ricerca tramite fonti non accessibi
 
 Saper recuperare informazioni utilizzando un approccio OSINT, è diventato oggi fondamentale, *considerato quanto sia intensivo l'utilizzo da parte di tutti (persone ed aziende) di internet.* 
 
-**Ma, fondamentale per fare cosa?** *Per conoscere meglio la persona o l'azienda con la quale abbiamo a che fare*. E' possibile farsi un quadro generale del proprio interlocutore. Ricordiamoci però una regola che ho imparato in questo "viaggio": *le informazioni che raccogliamo vanno sempre verificate: non prendiamole per "oro colato" perché potremmo cadere in un errore banale ma dalle conseguenze imprevedibili.* 
+**:point_right:Personalmente, utilizzo strumenti OSINT per le mie ricerche nel mondo del cybercrime, al fine di scoprire azioni di attacco svolte dai cynercriminali, capirne le tattiche e strategie, avvertire ed aiutare le aziende vittime.*
+
+L'utilizzo di tecniche OSINT inotlre, permette di conoscere meglio la persona o l'azienda con la quale abbiamo a che fare. E' possibile farsi un quadro generale del proprio interlocutore. Ricordiamoci però una regola che ho imparato in questo "viaggio": *le informazioni che raccogliamo vanno sempre verificate: non prendiamole per "oro colato" perché potremmo cadere in un errore banale ma dalle conseguenze imprevedibili.* 
 
 Ho deciso così di condividere la mia esperienza, in base sia agli strumenti utilizzati ma anche alle modalità di utilizzo degli stessi.
 
@@ -29,21 +31,12 @@ Diventa quindi importante porsi un obiettivo relativo alle attività che si vogl
 
 Qui potrai quindi trovare strumenti, link, risorse, esempi, che ti possono accompagnare nella scoperta del mondo OSINT, potendo così capire quali sono le *Tracce Digitali* che lasciamo.
 
-## :bangbang: Persone ed Aziende: la formazione è fondamentale
-L'errore umano è ciò che i criminali informatici cercano di far compiere alle persone. E' quindi prima di tutto importante che la popolazione aziendale abbia la giusta consapevolezza sui rischi ma soprattutto sui comportamenti da tenere.
-
-> Per questo motivo svolgo programmi di formazione nelle aziende. Programmi personalizzati in funzione delle esigenze (solo teorici o mixati a test operativi ed analisi delle vulnerabilità). [Contattami se sei interessato.](https://marcogovoni.it/consulenze/) 
-
 ## Perché GitHub?
 Perché permette di avere una interazione maggiore.
 * Vuoi solo informarti sul progetto **TracceDigitali**? Bene, sei nol posto giusto, continua la lettura!
-* Vuoi collaborare portando **suggerimenti, idee, correzion**i? Ottimo, puoi segnalare ciò che ritieni opportuno tramite una *Pull request* o una *Issue* o "alla vecchia maniera" [via email!](mailto:info@marcogovoni.it)
+* Vuoi collaborare portando **suggerimenti, idee, correzioni**? Oppure hai una domanda? Ottimo, puoi segnalare ciò che ritieni opportuno tramite una *Pull request* o una *Issue* oppure[aprendo una discuussione](https://github.com/marcogovoni/TracceDigitali/discussions)
 
 :point_right: Non conosci GitHub e vuoi sapere come funziona? [Questo link fa per te allora!](https://github.com/marcogovoni/come-usare-github)
-
-## Risorse correlate
-|[Il mio blog](https://marcogovoni.it)|[Il Podcast](https://www.spreaker.com/show/cronache-digitali-cybersecurity)|[Il Canale Telegram](https://t.me/cronachedigitali)
-|--|--|--|
 
 ## Come è organizzata questa pagina?
 Sotto la sezione [Wiki](https://github.com/marcogovoni/TracceDigitali/wiki) trovi le risorse che ho selezionato e che ritengo più utili per un primo approccio al mondo OSINT.
